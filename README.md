@@ -1,6 +1,9 @@
 # OS-Assignment
 Alya 
 2301010223
-this assignment consists of two assignments 
-both of the assignments are done in the single pdf only 
+assignments 1
+assignments 2
+assignments 3
+assignments 4
+capstone assignments
 
